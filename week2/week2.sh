@@ -1,8 +1,5 @@
-sudo apt-get update
-sudo apt-get install mysql-server
-sudo systemctl start mysql
-sudo snap install mysql-workbench-community
-sudo snap connect mysql-workbench-community:password-manager-service
-sudo snap connect mysql-workbench-community:ssh-keys
-mysql-workbench-community
-
+    1  mkdir week2
+    2  touch week2.sh
+    3  nano week2
+    4  nano week2.sh
+    5  history
